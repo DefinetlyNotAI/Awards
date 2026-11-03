@@ -248,3 +248,18 @@ Although the team did not win internationally:
 - Google AI Essentials
 
 ---
+
+# University in PSUT
+
+Here is everything I have done from normal participations to leadership positions
+
+## Workshop and Hackathon Participations
+
+- Participated in IoT Arduino Workshop for 3 days (Oct 2026)
+- Participated in GDG Flutter Workshop for 3 days (Oct-Nov 2026)
+
+- Participated in CodeFlow Hackathon for Worst UI/UX design for 1 day (Nov 2026)
+
+## Clubs
+
+- Joined Google Dev Group, CodeFlow and ACM clubs (Oct 2026)
